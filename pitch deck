@@ -1,0 +1,10 @@
+EcoTech-Pitch-Deck/
+│
+├── README.md
+├── assets/
+│   └── images/ (for logos, mockups, etc.)
+├── pitch-deck/
+│   ├── EcoTech_Pitch_Deck.pdf
+│   └── EcoTech_Pitch_Deck.pptx
+└── notes/
+    └── presentation_script.md
